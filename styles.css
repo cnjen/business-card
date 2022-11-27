@@ -5,7 +5,7 @@ body {
 
 .avatar {
     width: 150px;
-    border: 2px solid #72BBCE;
+    border: 2px solid #A6B1E1;
     border-radius: 10px;
 }
 
@@ -16,12 +16,12 @@ body {
     display: flex;
     justify-content: space-around;
     text-align: center;
-    background: #C2E2EA;
+    background: #DCD6F7;
     color: #2b2839;
-    border-bottom: 6px solid #72BBCE;
+    border-bottom: 6px solid #A6B1E1;
     border-radius: 10px;
-    border-right: 5px solid #72BBCE;   
-    box-shadow: 8px 10px 4px -3px #DCEEF3;  
+    border-right: 5px solid #A6B1E1;   
+    box-shadow: 8px 10px 4px -3px #C2C9EB;  
 }
 
 
